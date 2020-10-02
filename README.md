@@ -68,7 +68,8 @@ If you want to contribute to this project and make it better, your help is most 
 
 ### Need Help?
 
-Feel free to ask me, if you need any help.
+Feel free to ask me,
+if you need any help.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo)
 
